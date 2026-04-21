@@ -60,6 +60,12 @@ https://github.com/user-attachments/assets/78ca9dda-04c2-45d3-ad47-5a713086e33e
 |:----------|:-----------|:---------------:|:----------------------------------------|:-----:|
 | Galaxy S9 | starlte    | `G960FXXUHFVG4` | [Robotix](https://github.com/Robotix22) | ✅    |
 
+### Exynos 9610 Devices
+
+| Name       | Codename   | Tested Firmware | Tested by                                   | State |
+|:-----------|:-----------|:---------------:|:--------------------------------------------|:-----:|
+| Galaxy A51 | a51        | `A515FXXU8HWK1` | [AlexFurina](https://github.com/AlexFurina) |✅     |
+
 ### Exynos 7580 Devices
 
 | Name             | Codename   | Tested Firmware | Tested by                                       | State |

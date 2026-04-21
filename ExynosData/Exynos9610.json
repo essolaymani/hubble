@@ -1,0 +1,35 @@
+{
+    "response_support": true,
+    "files_to_send": [],
+    "bootloader_splits": {
+        "fwbl1.bin": {
+            "start": 0,
+            "length": 8192
+        },
+
+        "epbl.bin": {
+            "start": 8192,
+            "length": 77824
+        },
+
+        "bl2.bin": {
+            "start": 86016,
+            "length": 192512
+        },
+
+        "repeat-fwbl1.bin": {
+            "start": 0,
+            "length": 8192
+        },
+
+        "u-boot.bin": {
+            "start": 368640,
+            "length": 1572864
+        },
+
+        "el3_mon.bin": {
+            "start": 1941504,
+            "length": 262144
+        }
+    }
+}
