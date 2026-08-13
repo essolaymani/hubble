@@ -1,0 +1,21 @@
+{
+    "response_support": true,
+    "files_to_send": [
+        "sboot.bin",
+        "param.bin"
+    ],
+    "bootloader_splits": {
+        "fwbl1.bin": {
+            "start": 0,
+            "length": 8192
+        },
+        "bl2.bin": {
+            "start": 8192,
+            "length": 524288
+        },
+        "u-boot.bin": {
+            "start": 532480,
+            "length": 2097152
+        }
+    }
+}
